@@ -4,7 +4,7 @@
 
 ## 💻 프로젝트 소개
 
-Next.js 12 + React + Typescript + Next-ui + Vercel을 활용한 포트폴리오
+Next.js 13 + React + Typescript + Next-ui + Vercel을 활용한 포트폴리오
 <br/><br/>
 
 ## ⏰ 개발 기간
